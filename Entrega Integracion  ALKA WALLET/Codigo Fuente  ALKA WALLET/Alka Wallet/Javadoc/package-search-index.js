@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cl.billetera.main"},{"l":"cl.billetera.main.banco"},{"l":"cl.billetera.main.utilitarios.conversor"},{"l":"cl.billetera.main.utilitarios.interfazusuario"}];updateSearchResults();
